@@ -20,9 +20,8 @@ h1{
 p{
   text-align: justify;
   color: #443502;
-
+  margin:5px
 }
-
 
 .jobbra{
   text-align: right;
@@ -31,7 +30,8 @@ p{
 .erdekesseg{
   font-size: 70%;
   padding: 7px;
-  font-weight: normal;
+  font-weight: bold;
+  background-color: white;
 }
 
 li{
